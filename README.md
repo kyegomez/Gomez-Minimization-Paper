@@ -4,7 +4,7 @@
 
 How short can a program be? This repository holds the paper that asks, for any function or class `f` in a language `L`, whether there is a theoretical minimum number of characters and lines needed to write it, and whether we can ever know what it is.
 
-The answer: the minima exist, the trade-off between them is a finite staircase (the <b>Gomez front</b>), the character minimum is sandwiched between two Kolmogorov bounds, it is uncomputable, and in Python one line is always enough at a cost of exactly `8 + (newlines) + (escaped characters)`.
+The answer is the minima exist, the trade-off between them is a finite staircase (the <b>Gomez front</b>), the character minimum is sandwiched between two Kolmogorov bounds, it is uncomputable, and in Python one line is always enough at a cost of exactly `8 + (newlines) + (escaped characters)`.
 
 📄 <b>Paper:</b> [The Gomez Character–Line Minimization Theorem: Existence, Bounds, and Uncomputability of Minimal Program Representations](./paper.pdf)
 
