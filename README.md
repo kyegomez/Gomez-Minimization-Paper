@@ -159,7 +159,7 @@ Tasks, interfaces, domains, and candidate programs are specified in [`experiment
     title   = {The Gomez Character--Line Minimization Theorem: Existence, Bounds, and Uncomputability of Minimal Program Representations},
     author  = {Kye Gomez},
     year    = {2026},
-    url     = {https://github.com/kyegomez/Gomez-Character-Line-Minimization-Theorem-Paper}
+    url     = {https://github.com/kyegomez/Gomez-Minimization-Paper}
 }
 ```
 
